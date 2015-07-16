@@ -41,6 +41,5 @@ Activate the UI theme and color scheme by modifying your user preferences file, 
 {
   "theme": "BrogrammerBlue.sublime-theme"
   "color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
-
 }
 ```
